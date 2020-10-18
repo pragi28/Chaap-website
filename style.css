@@ -1,0 +1,155 @@
+
+.text{
+  text-align: center;
+  font-weight: bolder;
+  font-size: 7rem;
+  padding-top: 14rem;
+  color: white;
+  padding-left: 7rem;
+  font-style: oblique;
+
+}
+.logo-image{
+    width: 55px;
+    height: 55px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-top: -6px;
+}
+.middle{
+  padding-top: 60px;
+  background-color: #dbe3e5;
+  margin-bottom: 3rem;
+
+}
+.des{
+  width: 87%;
+  line-height: 2;
+  font-size: 1.1rem;
+  font-weight: 100;
+  font-family: 'Playfair Display', serif;
+  padding-left:13.5rem;
+
+}
+.corn{
+  padding-left: 17rem;
+  font-family: 'Nunito', sans-serif;
+  color: #bb2205;
+  font-size: 3rem;
+  font-weight: bold;
+  text-shadow: none;
+}
+.wel{
+  padding-left: 20rem;
+  font-family: 'Lobster', cursive;
+  color: black;
+  font-size: 3rem;
+  font-weight: bolder;
+}
+.icon{
+  padding-bottom: 10px;
+  padding-right: 6px;
+  color: white;
+}
+.Hours{
+  color: white;
+}
+.copy{
+  margin-top: 36px;
+  padding:15px;
+  background-color:#bb2205 ;
+
+}
+.co{
+  font-family: 'Titillium Web', sans-serif;
+  color: white;
+  text-align: center;
+}
+.header{
+  padding-top: 10px;
+  background-image: url("https://graphicriver.img.customer.envatousercontent.com/files/261728876/preview.jpg?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=a9819761860ed816e03814b4cc2c34f0");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+background-size: cover;
+width: 100%;
+  color: white;
+  height: 90px;
+}
+h2{
+  margin-top: 12px;
+  font-size: 3rem;
+  font-weight: bolder;
+  color: white;
+  text-align:center;
+}
+.Menu{
+  padding: 22px;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: bolder;
+  color:Black;
+  font-family: 'Barlow Condensed', sans-serif;
+font-family: 'Kalam', cursive;
+font-family: 'Lobster Two', cursive;
+
+}
+.MIDDLE{
+ margin-top: 2rem;
+ text-align: center;
+}
+.heading{
+  padding-left: 4rem;
+  padding-bottom: 2rem;
+  padding-top: 2.5rem;
+  text-align: center;
+  font-size: 2.5rem;
+  /* color: #625261; */
+  color: #87431d;
+  font-weight: bold;
+  font-family: 'Sansita Swashed';
+}
+.Table{
+margin-left: 7.5rem;
+  line-height: 2;
+  font-weight: bold;
+  font-size: 1rem;
+  font-family: 'Barlow Condensed', sans-serif;
+font-family: 'Kalam', cursive;
+  border-collapse: separate;
+  border-spacing: 50px 0;
+}
+
+td {
+  padding: 10px 0;
+}
+.MIDDLE{
+
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT6ELqZIznOXowtP2Uy5T7aEett9RA5evG0Bg&usqp=CAU");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+background-size: cover;
+width: 100%;
+
+}
+.footer1{
+  height: 17rem;
+  text-align: center;
+  background-image: url("https://graphicriver.img.customer.envatousercontent.com/files/261728876/preview.jpg?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=a9819761860ed816e03814b4cc2c34f0");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+background-size: cover;
+width: 100%;
+
+}
+.pro{
+color:white;
+  font-weight: bolder;
+  font-size: 4rem;
+  font-family: 'Barlow Condensed', sans-serif;
+font-family: 'Kalam', cursive;
+font-family: 'Lobster Two', cursive;
+}
+.del{
+font-weight: bold;
+font-size: 3rem;
+}
